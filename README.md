@@ -23,17 +23,18 @@ Lors de ce projet, notre professeur, [Damien Brun](https://www.damienb.run/), no
 La coche indique si la date a été respecté.
 ### Version Alpha (11/03/2024)
 Fonctionnement du système principal:
-- [ ] Création de l’environnement
-- [ ] Gestion de la cible 
-- [ ] Lancement du projectile
-- [ ] Physique du projectile
+- [x] Création de l’environnement
+- [x] Gestion de la cible 
+- [x] Lancement du projectile
+- [x] Physique du projectile
 
 ### Version Bêta (01/04/2024)
 Mode de jeu:
-- [ ] Score basique
-- [ ] Vent
-- [ ] Cible Mouvante
+- [x] Score basique
+- [x] Vent
+- [x] Cible Mouvante
 
+# Pour plus d'informatiosn sur les phases de développements merci de réferer au wiki
 
 ***
 
